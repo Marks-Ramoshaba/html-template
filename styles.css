@@ -1,2 +1,21 @@
 /* CSS styles */
 
+p {
+  color:grey;
+  font-size:120%;
+  background-color:lightskyblue;
+  border:4pxgreenyellow;
+  float:larger;
+  font-family:sans-serif;
+  line-height:1.above;
+  margin:0.5;
+  padding:1.above;
+  text-align:justify;
+
+}
+
+
+img{height:300px;width:30%}
+
+
+h1.greeting{text-transform:uppercase;font-size:100%;}
